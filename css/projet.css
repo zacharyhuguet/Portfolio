@@ -1,0 +1,24 @@
+.projet{
+    margin: 30px auto 30px;
+    width:96%;
+    display:block;
+    text-align:center;
+
+    }
+.projet .texte {
+   padding:20px 0px;
+   display:block;
+   font-size:150%;
+  
+}
+.projet .image img{
+    width:80%;
+}
+.projet-hr{
+    width:80%;
+    height:8px;
+    background-color:#07C2A9;
+    display:block;
+    margin:80px auto;
+    
+}

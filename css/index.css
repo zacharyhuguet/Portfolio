@@ -1,0 +1,33 @@
+.presentation-card{
+    border:10px solid #07C2A9;
+    width:95%;
+    margin: 50px auto 0;
+}
+.presentation {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.presentation .image img{
+    width:50%;
+    margin:100px auto;
+    display:block;
+    border-bottom: 8px solid #07C2A9;
+}
+.presentation .texte {
+margin: auto auto;
+padding: 0 10px;
+}
+.presentation .texte a {
+    margin:30px auto 0px;
+ text-decoration: none;
+ color:white;
+ background-color: #07C2A9;
+ display:block;
+ padding:15px;
+ width:100%;
+ max-width:200px;
+ text-align:center;
+    }
+
