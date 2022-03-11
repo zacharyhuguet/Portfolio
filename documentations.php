@@ -1,13 +1,18 @@
 <?php
 include 'includes/header.php'
 ?>
-</br><h1>Programation</h1></br>
-<!-- <a href="doc/SQL.pdf">SQL</a></br>
-<a href="doc/Formulairehtml.pdf">Formulaire HTML</a></br> -->
-<!-- <a href="doc/DoctechniquereplicationSQL.pdf">Replication Base de donnée SQL</a></br> -->
-<!-- <a href="doc/GestiondesutilisateursavecComposeretTwig.pdf">Gestion des utilisateur Composer et Twig</a></br> -->
-<!-- <a href="doc/docsymfony.pdf">Symfony</a></br> -->
-<!-- <a href="doc/docc.pdf">C#</a></br> -->
+
+
+<style>
+    .fas{
+        color:black !important;
+font-size:50px;
+    }
+    </style>
+</br><h1 id="prog">Programmation</h1>
+<!-- <a href='#prog'><i class="fas fa-arrow-circle-down"></i></a><a href='#cyber'><i class="fas fa-arrow-circle-down"></i></a><a href='#projet'><i class="fas fa-arrow-circle-down"></i></a></br> -->
+
+
 <div class="documentation">
     
     
@@ -33,6 +38,15 @@ include 'includes/header.php'
 <div class="doc">
     <img src="images/doc.png"/>
     <p>Documentation<br/>
+    Replication SQL 
+</p>
+<a target="_blank" href="doc/DoctechniquereplicationSQL.pdf">LIRE</a>
+</div>
+
+
+<div class="doc">
+    <img src="images/doc.png"/>
+    <p>Documentation<br/>
     Symfony 
 </p>
 <a target="_blank" href="doc/docsymfony.pdf">LIRE</a>
@@ -42,16 +56,7 @@ include 'includes/header.php'
 <div class="doc">
     <img src="images/doc.png"/>
     <p>Documentation<br/>
-    Replication Base de donnée SQL 
-</p>
-<a target="_blank" href="doc/DoctechniquereplicationSQL.pdf">LIRE</a>
-</div>
-
-
-<div class="doc">
-    <img src="images/doc.png"/>
-    <p>Documentation<br/>
-    Gestion des utilisateur Composer et Twig 
+    Composer et Twig 
 </p>
 <a target="_blank" href="doc/GestiondesutilisateursavecComposeretTwig.pdf">LIRE</a>
 </div>
@@ -65,11 +70,13 @@ include 'includes/header.php'
 <a target="_blank" href="doc/docc.pdf">LIRE</a>
 </div>
 
-
 </div>
 
+<a href='#cyber'><i class="fas fa-arrow-circle-down"></i></a>
 
-</br><h1>Cyber Sécurité</h1></br>
+
+
+</br><h1 id="cyber">Cyber Sécurité</h1></br>
 
 
 <div class="documentation">
@@ -85,10 +92,13 @@ include 'includes/header.php'
 </div>
 </div>
 
-<!-- <a href="doc/Lesfailleswebs.pdf">Les failles Web</a></br> -->
+
+<a href='#projet'><i class="fas fa-arrow-circle-down"></i></a></br>
 
 
-</br><h1>Mes projets</h1></br>
+
+
+</br><h1 id ="projet">Mes projets</h1></br>
 
 <div class="documentation">
 <div class="doc">
@@ -110,18 +120,18 @@ include 'includes/header.php'
 <div class="doc">
     <img src="images/doc.png"/>
     <p>Documentation<br/>
-    Hébergement du projet FeedBack
+    Hébergement FeedBack
 </p>
 <a target="_blank" href="doc/doctechniquehebergementfeedbackdocker.pdf">LIRE</a>
 </div>
 
 </div>
-
+<a href="#prog"><i class="fas fa-arrow-circle-up"></i></a>
 <!-- <a href="doc/apaeia.pdf">Projet APAEIA</a></br> -->
 <!-- <a href="doc/DMZ.pdf">Projet DMZ</a></br> -->
 <!-- <a href="doc/doctechniquehebergementfeedbackdocker.pdf">Hébergement du projet FeedBack</a></br> -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <br/><br/>
 <?php
