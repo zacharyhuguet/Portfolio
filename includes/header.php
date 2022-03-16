@@ -17,7 +17,7 @@
     <style>
 
     </style>
-    <header>
+    <header id="prog">
         <a class="logo" href="index.php">HUGUET ZACHARY</a>
         <nav class="topnav" id="myTopnav">
 <a href="index.php">Accueil</a>

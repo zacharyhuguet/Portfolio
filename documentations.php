@@ -6,7 +6,13 @@ include 'includes/header.php'
 <style>
     .fas{
         color:black !important;
-font-size:50px;
+        font-size:50px;
+        text-align:right;
+        display: block;
+        text-decoration:none;
+    }
+    a{
+        text-decoration:none;
     }
     </style>
 </br><h1 id="prog">Programmation</h1>
