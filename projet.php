@@ -16,8 +16,8 @@ include('includes/header.php')
 <div class="projet">
     <div class="texte">
         <p>FeedBack de la cantine projet créer en collaboration </br>
-        avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>,
-        </p>
+        avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>, <a href="">Evan Blier</a>, <a href="">Hugo Jenouvrier</a>, et <a href="">Sébastien Laheyne</a>
+        </p> 
     </div>
     <div class="image">
     <a target="_blank" href="https://zachary.pro.ndlpavranches.fr/visitor/"><img src="images/feedback.png"></a>
