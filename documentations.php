@@ -15,7 +15,7 @@ include 'includes/header.php'
         text-decoration:none;
     }
     </style>
-</br><h1 id="prog">Programmation</h1>
+</br><h1>Programmation</h1>
 <!-- <a href='#prog'><i class="fas fa-arrow-circle-down"></i></a><a href='#cyber'><i class="fas fa-arrow-circle-down"></i></a><a href='#projet'><i class="fas fa-arrow-circle-down"></i></a></br> -->
 
 
