@@ -1,3 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
 .presentation-card{
     border:10px solid #07C2A9;
     width:95%;
@@ -31,9 +37,15 @@ padding: 0 10px;
  text-align:center;
     }
 
-.lien a img{
-    width: 250px;
+    .img-lien{
+    height: 200px;
+    margin:0 auto;
+    text-align: center;
+    display:block;
+
     
 }
+
+
 
 
