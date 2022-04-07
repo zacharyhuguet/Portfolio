@@ -9,7 +9,7 @@ include('includes/header.php')
 <div class="texte">
         <p>
     Bienvenue sur mon portfolio !<br/>
-    Je m'apelle Zachary Huguet, j'ai 21 ans.<br/>
+    Je m'appelle Zachary Huguet, j'ai 21 ans.<br/>
     Actuelement je fais une formation en BTS SIO option SLAM en 2ème année <br/>
     au lycée Notre Dame de la Providence à Avranches.
     </p>

@@ -1,3 +1,8 @@
+<footer>
+
+</footer>
+
+
 </body>
 
 </html>

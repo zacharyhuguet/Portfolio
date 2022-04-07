@@ -4,7 +4,7 @@ include('includes/header.php')
 <div class="projet">
     <div class="texte">
         <p>La Maison Du Smartphone</p>
-        <p>Site web réalisés pendant mon stage de SIO2 <br/>
+        <p>Site web réalisé pendant mon stage de SIO2 <br/>
         avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>
         </p>
     </div>
@@ -17,7 +17,7 @@ include('includes/header.php')
     <div class="texte">
         <p>FeedBack de la cantine projet créer en collaboration </br>
         avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>, <a href="">Evan Blier</a>, 
-        et <a href="">Hugo Jenouvrier</a>
+        et <a href="https://hugo-jenouvrier.alwaysdata.net/">Hugo Jenouvrier</a>
         </p> 
     </div>
     <div class="image">
@@ -28,7 +28,7 @@ include('includes/header.php')
 <div class="projet">
     <div class="texte">
         <p>Casse-Brique<br/>
-        Projet réaliser en JavaScript</p>
+        Projet réalisé en JavaScript</p>
     </div>
     <div class="image">
     <a target="_blank" href="https://zacharyhuguet.alwaysdata.net/CB"><img src="images/cb.png"></a>
