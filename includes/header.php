@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="css/projet.css">
     <link rel="stylesheet" href="css/doc.css">
 
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
+
 <body>
     <style>
 

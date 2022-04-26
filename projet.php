@@ -11,7 +11,12 @@ include('includes/header.php')
     <div class="image">
     <a target="_blank" href="https://www.la-maison-du-smartphone.fr"><img src="images/lmds.png"></a>
 </div>
+</br></br></br>
+<a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1boHr8YNoc0Nyg8tmX5Oc8sPdraNeJMNFEDO6OJGve4M/edit?usp=sharing">Documentation technique</a>
+<a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1Vp1fU7QAwiYlvnm_SY8hJVz4JdwS4DDaUSCES9r-89I/edit?usp=sharing">Documentation utilisateur</a>
 </div>
+
+
 <hr class="projet-hr">
 <div class="projet">
     <div class="texte">
@@ -23,7 +28,12 @@ include('includes/header.php')
     <div class="image">
     <a target="_blank" href="https://FEEDBACK.ndlpavranches.fr"><img src="images/feedback.png"></a>
 </div>
+</br></br></br>
+<a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1B_axhCQpEKUfYy7qymip0U5c7XRh-qHqVtXn_4rTBxQ/edit?usp=sharing">Documentation technique</a>
+<a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1UB0Zg6-9zdDZTkM_Rf6Vy0OQ-VrKHsCvBhtTQjP83N4/edit?usp=sharing">Documentation utilisateur</a>
 </div>
+
+
 <hr class="projet-hr">
 <div class="projet">
     <div class="texte">
@@ -34,6 +44,7 @@ include('includes/header.php')
     <a target="_blank" href="https://zacharyhuguet.alwaysdata.net/CB"><img src="images/cb.png"></a>
 </div>
 </div>
+
 <!-- <a href="https://cassebrique.pdf">Casse Brique</a><p> </p> -->
 
 

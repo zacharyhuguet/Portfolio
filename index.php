@@ -13,7 +13,7 @@ include('includes/header.php')
     Actuelement je fais une formation en BTS SIO option SLAM en 2ème année <br/>
     au lycée Notre Dame de la Providence à Avranches.
     </p>
-    <a target="_blank" href="images/CV.pdf">Voir mon CV</a>
+    <a target="_blank" href="https://www.canva.com/design/DAE--apeKb8/qlQguae_ZpKQ67rZJOLj8w/edit?utm_content=DAE--apeKb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Voir mon CV</a>
 </div>
 </div>
 
