@@ -24,13 +24,13 @@ include('includes/header.php')
 <div class="lien">
     <a target="_blank" href="https://github.com/zacharyhuguet/"><img class="img-lien" src="images/githublogo.png"></a></br></br>
     <a target="_blank" href="https://www.root-me.org/Zac-656111?inc=info&lang=fr"><img class="img-lien" src="images/rootmelogo.png"></a></br></br>
-    <a target="_blank" href="https://www.credly.com/users/zachary-huguet/badges"><img class="img-lien" src="images/awslogo.png"></a></br></br>
 </div></br></br></br></br>
 
-<h1>Mes certifications :</h1>
+<h1>Mes certifications :</h1></br></br></br>
 
 <div class="lien">
 
+    <a target="_blank" href="https://www.credly.com/users/zachary-huguet/badges"><img class="img-lien" src="images/awslogo.png"></a></br></br>
     <a target="_blank" href="doc/attestationpix.pdf"><img class="img-lien" src="images/Pixlogo.png"></a></br></br>
     <a target="_blank" href="doc/attestationmooc.pdf"><img class="img-lien" src="images/logosecnum.png"></a></br></br>
 </div>

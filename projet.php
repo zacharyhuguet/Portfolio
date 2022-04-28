@@ -14,6 +14,8 @@ include('includes/header.php')
 </br></br></br>
 <a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1boHr8YNoc0Nyg8tmX5Oc8sPdraNeJMNFEDO6OJGve4M/edit?usp=sharing">Documentation technique</a>
 <a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1Vp1fU7QAwiYlvnm_SY8hJVz4JdwS4DDaUSCES9r-89I/edit?usp=sharing">Documentation utilisateur</a>
+<a class="liendoc" target="_blank" href="https://github.com/zacharyhuguet/LMDS-S.git">Dépot Github</a>
+
 </div>
 
 
@@ -21,8 +23,8 @@ include('includes/header.php')
 <div class="projet">
     <div class="texte">
         <p>FeedBack de la cantine projet créer en collaboration </br>
-        avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>, <a href="">Evan Blier</a>, 
-        et <a href="https://hugo-jenouvrier.alwaysdata.net/">Hugo Jenouvrier</a>
+        avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>, <a target="_blank" href="">Evan Blier</a>, 
+        et <a target="_blank" href="https://hugo-jenouvrier.alwaysdata.net/">Hugo Jenouvrier</a>
         </p> 
     </div>
     <div class="image">
@@ -31,6 +33,7 @@ include('includes/header.php')
 </br></br></br>
 <a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1B_axhCQpEKUfYy7qymip0U5c7XRh-qHqVtXn_4rTBxQ/edit?usp=sharing">Documentation technique</a>
 <a class="liendoc" target="_blank" href="https://docs.google.com/document/d/1UB0Zg6-9zdDZTkM_Rf6Vy0OQ-VrKHsCvBhtTQjP83N4/edit?usp=sharing">Documentation utilisateur</a>
+<a class="liendoc" target="_blank" href="https://github.com/ndlaprovidence/self-feedback2b.git">Dépot Github</a>
 </div>
 
 
