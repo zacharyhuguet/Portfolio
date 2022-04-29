@@ -40,3 +40,13 @@ width:45%;
         font-weight: bolder;
         background-color: hsl(240, 6%, 57%);
     }
+    .fas{
+        color:black !important;
+        font-size:50px;
+        text-align:right;
+        display: block;
+        text-decoration:none;
+    }
+    a{
+        text-decoration:none;
+    }

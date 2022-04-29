@@ -37,11 +37,20 @@ padding: 0 10px;
  text-align:center;
     }
 
-.img-lien{
-height: 200px;
-margin:0 auto;
+    .lien{
+        display:flex;
+        flex-direction: row;
+justify-content: center;
+        margin:0 auto 70px;
+    }
+    .lien a {
+        width: 20%;
+
+margin:20px 50px;
 text-align: center;
-display:block; 
+    }
+.img-lien{
+height: 80px;
 }
 
 

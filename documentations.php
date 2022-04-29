@@ -2,19 +2,6 @@
 include 'includes/header.php'
 ?>
 
-
-<style>
-    .fas{
-        color:black !important;
-        font-size:50px;
-        text-align:right;
-        display: block;
-        text-decoration:none;
-    }
-    a{
-        text-decoration:none;
-    }
-    </style>
 </br><h1>Programmation</h1>
 <!-- <a href='#prog'><i class="fas fa-arrow-circle-down"></i></a><a href='#cyber'><i class="fas fa-arrow-circle-down"></i></a><a href='#projet'><i class="fas fa-arrow-circle-down"></i></a></br> -->
 
