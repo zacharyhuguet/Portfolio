@@ -24,7 +24,7 @@ include('includes/header.php')
 <div class="projet">
     <div class="texte">
         <p>FeedBack de la cantine projet créer en collaboration </br>
-        avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>, <a target="_blank" href="">Evan Blier</a>, 
+        avec : <a target="_blank" href="https://allan-biville.alwaysdata.net">Allan Biville</a>, <a target="_blank" href="https://blierevan.alwaysdata.net">Evan Blier</a>, 
         et <a target="_blank" href="https://hugo-jenouvrier.alwaysdata.net/">Hugo Jenouvrier</a>
         </p> 
     </div>
