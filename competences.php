@@ -5,6 +5,47 @@ include('includes/header.php')
     <div class="skills-header">
      <h1>Mes compétences</h1>   
      </div>
+
+   <div class="skills-head">
+     <h1>Réseau</h1>   
+     </div>
+     <div class="skills-container">
+
+      <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src="images/pfsense.png"     alt="" class="skills-icons">
+        </div>
+         <h3>Pfsense</h3>
+        </div>
+       </div>
+
+
+        <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src="images/debian.png" alt="" class="skills-icons">
+        </div>
+        <h3>Debian</h3>
+        </div> 
+       </div>
+       
+
+             <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src="images/windows.png"     alt="" class="skills-icons">
+        </div>
+         <h3>Windows Server / Pro</h3>
+        </div>
+       </div>
+
+
+
+      </div>
+     <div class="skills-head">
+     <h1>Programmation</h1>   
+     </div>
      <div class="skills-container">
        
       <div class="skills-box">

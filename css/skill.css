@@ -89,3 +89,12 @@
      padding: 2rem 50px;
      }
     }
+
+        .skills-head{
+    text-align: center;
+    color: #213ee0;
+    padding: 1rem;
+    position: relative;
+    font-size:100%;
+    margin-bottom:50px;
+    }

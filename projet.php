@@ -1,6 +1,22 @@
 <?php 
 include('includes/header.php')
 ?>
+
+
+
+<hr class="projet-hr">
+<div class="projet">
+    <div class="texte">
+        <p>Labo<br/>
+        Réseau en classe</p>
+    </div>
+    <div class="image">
+    <a target="_blank" href="https://drive.google.com/file/d/1MOkKh6vSdFFfhzvuq-ruPzaA4_qUNafU/view?usp=sharing"><img src="images/labo.jpg"></a>
+</div>
+</div>
+
+
+
 <div class="projet">
     <div class="texte">
         <p>La Maison Du Smartphone</p>
@@ -18,6 +34,10 @@ include('includes/header.php')
 <a class="liendoc" target="_blank" href="https://github.com/zacharyhuguet/LMDS-S.git">Dépot Github</a>
 
 </div>
+
+
+
+
 
 
 <hr class="projet-hr">
@@ -39,28 +59,11 @@ include('includes/header.php')
 </div>
 
 
-<hr class="projet-hr">
-<div class="projet">
-    <div class="texte">
-        <p>Casse-Brique<br/>
-        Projet réalisé en JavaScript</p>
-    </div>
-    <div class="image">
-    <a target="_blank" href="https://zacharyhuguet.alwaysdata.net/CB"><img src="images/cb.png"></a>
-</div>
-</div>
 
 
-<hr class="projet-hr">
-<div class="projet">
-    <div class="texte">
-        <p>Vitotel<br/>
-        Site de présentation d'une association</p>
-    </div>
-    <div class="image">
-    <a target="_blank" href="https://zacharyhuguet.alwaysdata.net/vitotel"><img src="images/vitotel.png"></a>
-</div>
-</div>
+
+
+
 
 <?php 
 include('includes/footer.php')

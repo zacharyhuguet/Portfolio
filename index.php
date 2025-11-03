@@ -9,11 +9,11 @@ include('includes/header.php')
 <div class="texte">
         <p>
     Bienvenue sur mon portfolio !<br/>
-    Je m'appelle Zachary Huguet, j'ai 21 ans.<br/>
-    Actuelement je fais une formation en BTS SIO option SLAM en 2ème année <br/>
+    Je m'appelle Zachary Huguet, j'ai 24 ans.<br/>
+    Actuelement je fais une formation en BTS SIO option SISR en 2ème année <br/>
     au lycée Notre Dame de la Providence à Avranches.
     </p>
-    <a target="_blank" href="https://www.canva.com/design/DAE--apeKb8/qlQguae_ZpKQ67rZJOLj8w/edit?utm_content=DAE--apeKb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Voir mon CV</a>
+    <a target="_blank" href="https://www.canva.com/design/DAFLn3OKWtM/KrHUCM_X8SvoiQBU6nKA-g/edit?utm_content=DAFLn3OKWtM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Voir mon CV</a>
     <a target="_blank" href="https://docs.google.com/spreadsheets/d/1TofJXU0ikmWWDUVh2d6m_sHcCd6aa18R/edit?usp=sharing&ouid=114720024405761181879&rtpof=true&sd=true">Voir mon tableau de compétence</a>
 
 </div>

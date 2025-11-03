@@ -1,5 +1,5 @@
 <footer>
-<h5><a target="_blank" href="copyright.php">Copyright © 2022</a></br></br>
+<h5><a target="_blank" href="copyright.php">Copyright © 2025</a></br></br>
     Portfolio - Zachary HUGUET</h5>
     <br/><br/>
     <a target="_blank" href="https://github.com/zacharyhuguet/"><img src="images/githublogo.png"/></a>
