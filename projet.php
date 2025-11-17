@@ -13,11 +13,10 @@ include('includes/header.php')
     <div class="image">
     <a target="_blank" href="https://drive.google.com/file/d/1MOkKh6vSdFFfhzvuq-ruPzaA4_qUNafU/view?usp=sharing"><img src="images/labo.jpg"></a>
 </div>
-</div>
+
 </br></br></br>
-<a class="liendoc" target="_blank" href="https://drive.google.com/file/d/1TOKrDgw_rZYmENQlC_0ungspFBhqZ6uR/view?usp=sharing">PVE</a>
-
-
+<a class="liendoc" target="_blank" href="https://drive.google.com/file/d/1TOKrDgw_rZYmENQlC_0ungspFBhqZ6uR/view?usp=sharing">Schéma réseau</a>
+</div>
 
 
 <hr class="projet-hr">

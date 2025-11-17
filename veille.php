@@ -54,20 +54,6 @@ echo '<p><a href="https://www.youtube.com/c/DockerIo/videos">Chaine YouTube </a>
 
 
 echo "</br></br>";
-echo "<h1 style='padding:0px 20px;'>FLUX RSS lemondeinformatique</h1>";
-$url = "https://kubernetes.io/blog/rss.xml"; 
-$rss = simplexml_load_file($url);
-echo '<ul>';
-foreach ($rss->item as $item){
- $datetime = date_create($item->pubDate);
- $date = date_format($datetime, 'd M Y, H\hi');
- echo '<li><a href="'.$item->link.'">'.$item->title.'</a> ('.$date.')</li>';
-}
-echo '</ul>';
-echo "</br></br>";
-
-
-echo "</br></br>";
 echo "<h1 style='padding:0px 20px;'>FLUX RSS sreeninet</h1>";
 $url = "https://sreeninet.wordpress.com/category/docker/feed/"; 
 $rss = simplexml_load_file($url)->channel;
@@ -79,6 +65,23 @@ foreach ($rss->item as $item){
 }
 echo '</ul>';
 echo "</br></br>";
+
+
+
+
+echo "</br></br>";
+echo "<h1 style='padding:0px 20px;'>FLUX RSS Docker Blog</h1>";
+$url = "https://www.docker.com/blog/feed/"; 
+$rss = simplexml_load_file($url)->channel;
+echo '<ul>';
+foreach ($rss->item as $item){
+ $datetime = date_create($item->pubDate);
+ $date = date_format($datetime, 'd M Y, H\hi');
+ echo '<li><a href="'.$item->link.'">'.$item->title.'</a> ('.$date.')</li>';
+}
+echo '</ul>';
+echo "</br></br>";
+
 
 
 
