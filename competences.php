@@ -39,8 +39,7 @@ include('includes/header.php')
          <h3>Windows Server / Pro</h3>
         </div>
        </div>
-
-
+   
 
       </div>
      <div class="skills-head">
@@ -127,7 +126,14 @@ include('includes/header.php')
        </div>
     
      </div>
-   
+
+   <div class="presentation">
+   <div class="texte">
+   <a target="_blank" href="https://docs.google.com/spreadsheets/d/1TofJXU0ikmWWDUVh2d6m_sHcCd6aa18R/edit?usp=sharing&ouid=114720024405761181879&rtpof=true&sd=true">Voir mon tableau de compétence (SLAM)</a>
+   <a target="_blank" href="">Voir mon tableau de compétence (SISR)</a>
+   </div>
+   </div>
+   <br>
   </boby>
 </html>
 

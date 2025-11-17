@@ -14,9 +14,13 @@ include('includes/header.php')
     <a target="_blank" href="https://drive.google.com/file/d/1MOkKh6vSdFFfhzvuq-ruPzaA4_qUNafU/view?usp=sharing"><img src="images/labo.jpg"></a>
 </div>
 </div>
+</br></br></br>
+<a class="liendoc" target="_blank" href="https://drive.google.com/file/d/1TOKrDgw_rZYmENQlC_0ungspFBhqZ6uR/view?usp=sharing">PVE</a>
 
 
 
+
+<hr class="projet-hr">
 <div class="projet">
     <div class="texte">
         <p>La Maison Du Smartphone</p>

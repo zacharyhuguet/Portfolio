@@ -55,7 +55,7 @@ echo '<p><a href="https://www.youtube.com/c/DockerIo/videos">Chaine YouTube </a>
 
 echo "</br></br>";
 echo "<h1 style='padding:0px 20px;'>FLUX RSS lemondeinformatique</h1>";
-$url = "https://www.lemondeinformatique.fr/flux-rss/thematique/virtualisation/rss.xml"; 
+$url = "https://kubernetes.io/blog/rss.xml"; 
 $rss = simplexml_load_file($url);
 echo '<ul>';
 foreach ($rss->item as $item){

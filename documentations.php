@@ -2,7 +2,39 @@
 include 'includes/header.php'
 ?>
 
-</br><h1>Programmation</h1>
+
+
+</br><h1>Réseau</h1></br>
+
+
+<div class="documentation">
+    
+    
+
+<div class="doc">
+    <img src="images/doc.png"/>
+    <p>Service NTP<br/>
+    Pfsense
+</p>
+<a target="_blank" href="doc/NTP.pdf">LIRE</a>
+</div>
+
+
+<div class="doc">
+    <img src="images/doc.png"/>
+    <p>Configuration<br/>
+    routeur (InterVlan)
+</p>
+<a target="_blank" href="doc/NAT.pdf">LIRE</a>
+</div>
+
+
+
+
+</div>
+
+
+</br><h1>Programmation</h1></br>
 <!-- <a href='#prog'><i class="fas fa-arrow-circle-down"></i></a><a href='#cyber'><i class="fas fa-arrow-circle-down"></i></a><a href='#projet'><i class="fas fa-arrow-circle-down"></i></a></br> -->
 
 
