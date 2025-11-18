@@ -29,6 +29,16 @@ include 'includes/header.php'
 </div>
 
 
+<div class="doc">
+    <img src="images/doc.png"/>
+    <p>Utiliser Wireguard<br/>
+    avec Pfsense
+</p>
+<a target="_blank" href="doc/WG.pdf">LIRE</a>
+</div>
+
+
+
 
 
 </div>
